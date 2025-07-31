@@ -1,0 +1,27 @@
+node_modules/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+BOT/__pycache__/
+BOT/*/__pycache__/
+BOT/*/*/__pycache__/
+
+# Config with sensitive data
+BOT/config.py
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+BOT/log.txt
+
+# OS files
+.DS_Store
+Thumbs.db

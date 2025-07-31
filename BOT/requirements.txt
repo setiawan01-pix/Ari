@@ -1,0 +1,6 @@
+python-telegram-bot
+openpyxl
+vobject
+apscheduler
+python-dotenv
+python-dotenv

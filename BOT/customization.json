@@ -1,0 +1,4 @@
+{
+    "payment_method": "Transfer Bank",
+    "qr_code_url": "https://example.com/qr.png"
+}

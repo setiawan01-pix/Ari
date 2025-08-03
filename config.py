@@ -35,7 +35,7 @@ class BotConfig:
         self.webhook_port: int = 8443
         
         # Pengaturan admin
-        self.admin_ids: list = []  # List ID admin Telegram
+        self.admin_ids: list = [123456789]  # List ID admin Telegram - Ganti dengan ID admin Anda
         
         # Pengaturan fitur
         self.enable_echo: bool = True
